@@ -1,4 +1,4 @@
-# Calculadora Python - Tkinter
+# Calculadora Python - Tkinter :blush:
 
 Esta es una calculadora muy simple que realiza las siguientes operaciones: 
 
@@ -9,4 +9,4 @@ Esta es una calculadora muy simple que realiza las siguientes operaciones:
 - Módulo
 
 # Lenguajes
-Está hecha con lenguaje Python y la GUI con la librería Tkinter de Python. 
+Está hecha con lenguaje Python, la GUI con la librería Tkinter de Python. 
